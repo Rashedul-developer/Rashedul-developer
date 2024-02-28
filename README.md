@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Rashedul Islam</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+![A passionate full stack developer from Bangladesh](https://media.licdn.com/dms/image/C4E16AQFqXGOFO8u6TA/profile-displaybackgroundimage-shrink_350_1400/0/1630301290772?e=1714608000&v=beta&t=5qYLKarbc3wtDraro6CLK2_ptS-oBNZ-TR_mHPkkyOY)
+### Hi there 👋, my name is Rashedul Islam
+#### A passionate full stack developer from Bangladesh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashedul-developer&label=Profile%20views&color=0e75b6&style=flat" alt="rashedul-developer" /> </p>
+Full-stack developer fluent in React, Next.js, Angular, and proficient in JavaScript, Node.js, PHP, and Laravel. Experienced in Android development with Java and Kotlin. Passionate about crafting robust, scalable solutions and constantly exploring new technologies to push the boundaries of what's possible in software development.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashedul-developer" alt="rashedul-developer" /></a> </p>
+Skills: React / Next.js / Angular / JavaScript / Node.js / Php / Laravel / Android ( java, kotlin )
 
-- 🔭 I’m currently working on Infinity Infotech **Accounts**
-
-- 🌱 I’m currently learning **Nest.js**
-
-- 💬 Ask me about **Angular, React,next.js,Php,Laravel,Andorid app development**
-
-- 📫 How to reach me **rashedul.islam.developer@gmail.com**
+- 🔭 I’m currently working on Infinity Infotech 
+- 🌱 I’m currently learning Nest.js 
+- 👯 I’m looking to collaborate on GitHub 
+- 🤔 I’m looking for help with Softwere development 
+- 💬 Ask me about Web development and Android app development 
+- 📫 How to reach me: rashedul.islam.developer@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
