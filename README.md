@@ -1,6 +1,6 @@
 ![A passionate full stack developer from Bangladesh](https://media.licdn.com/dms/image/C4E16AQFqXGOFO8u6TA/profile-displaybackgroundimage-shrink_350_1400/0/1630301290772?e=1714608000&v=beta&t=5qYLKarbc3wtDraro6CLK2_ptS-oBNZ-TR_mHPkkyOY)
 ### Hi there 👋, my name is Rashedul Islam
-#### A passionate full stack developer from Bangladesh
+#### A passionate senior software engineer from Bangladesh
 
 Full-stack developer fluent in React, Next.js, Angular, and proficient in JavaScript, Node.js, PHP, and Laravel. Experienced in Android development with Java and Kotlin. Passionate about crafting robust, scalable solutions and constantly exploring new technologies to push the boundaries of what's possible in software development.
 
